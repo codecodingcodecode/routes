@@ -1,0 +1,22 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "Routes App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecodingcodecode/routes.git"
+  },
+  "author": "Sean Horvath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codecodingcodecode/routes/issues"
+  },
+  "homepage": "https://github.com/codecodingcodecode/routes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
